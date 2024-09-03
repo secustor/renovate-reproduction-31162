@@ -5,7 +5,7 @@
 groups = ["default", "dev", "socks"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:6e19f73062c4458803b8de40c1f441013dfdfbc3efbcfed887985db82cf153f7"
+content_hash = "sha256:7f00ae306373983c4b2d468743f54a909229c2abeeb6594937d3347cd639c6df"
 
 [[metadata.targets]]
 requires_python = ">=3.10"
@@ -608,16 +608,16 @@ files = [
 
 [[package]]
 name = "isystem-connect"
-version = "9.21.255.0"
+version = "9.21.268.1"
 requires_python = ">=2.7"
 summary = "isystem.connect for Python"
 groups = ["dev"]
 files = [
-    {file = "isystem.connect-9.21.255.0-cp310-none-manylinux1_x86_64.whl", hash = "sha256:8e1a896afbc5e3c411de537129ff880fe5cbabb47e7f1531483636ea650be800"},
-    {file = "isystem.connect-9.21.255.0-cp310-none-win_amd64.whl", hash = "sha256:d6f21ea3db440a7aa9beb77aefd63816bbc7784c254e6c8e60babec6d5001658"},
-    {file = "isystem.connect-9.21.255.0-cp311-none-win_amd64.whl", hash = "sha256:75771b64397f43f61c01a58491a1b93345c6713fa2070718da1fa6defa35879c"},
-    {file = "isystem.connect-9.21.255.0-cp312-none-manylinux1_x86_64.whl", hash = "sha256:068d190f714cf1735ca543cebb4393bf2d75361decacd0df13416570ba33c1e3"},
-    {file = "isystem.connect-9.21.255.0-cp312-none-win_amd64.whl", hash = "sha256:6582a4c551cfc3807d58a3983a78bf126cb7697142a02ba8ab666cf5e513f0d7"},
+    {file = "isystem.connect-9.21.268.1-cp310-none-manylinux1_x86_64.whl", hash = "sha256:c7b693939431f64b4a41bdd93775fa0ac034b6f22f324125bca7c363b7872db7"},
+    {file = "isystem.connect-9.21.268.1-cp310-none-win_amd64.whl", hash = "sha256:15be92ab94285449b551f4ae86d60350dd71d6c1015cb179a89be780cf5a9abd"},
+    {file = "isystem.connect-9.21.268.1-cp311-none-win_amd64.whl", hash = "sha256:3d2e6f5ee5ddd325ff95e3670c39fa8f2773239b0978ad67d997f2f3538ab833"},
+    {file = "isystem.connect-9.21.268.1-cp312-none-manylinux1_x86_64.whl", hash = "sha256:b7d6b9701b524cfa3ee2313e2641017a5c45d0396353a2b6ddba7717ef6c8b7c"},
+    {file = "isystem.connect-9.21.268.1-cp312-none-win_amd64.whl", hash = "sha256:8cdad1ba976961e2a07d84cfb0ac1b7bf74276d80802d4c4a0427df3aed21059"},
 ]
 
 [[package]]
